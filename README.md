@@ -23,3 +23,5 @@ High level overview of the API used for scheduling device actions and processing
 To help with development, start by reading the [CONTRIBUTING](./CONTRIBUTING.md) document, which has relevant resources. 
 
 For a local development environment, or a demo setup, the [ngrok guide](./tools/ngrok/README.md), is the best resource to get something working.  
+
+https://medium.com/swlh/mobile-device-management-mdm-for-ios-60448313dafb
